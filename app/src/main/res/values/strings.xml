@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgoraVideoCallTest</string>
+    <string name="agora_app_id">3de68443f46f46f4a50d1fe49a16e98f</string>
+    <string name="agora_access_token">006e6e18796db7c4183833c3d46d6734afbIAD41LTKiishR5cH/Hof0S7P5vGazTsu5FVKfwFyLY0Xa8DdKiUAAAAAEACDmVGZ0T/wYQEAAQDQP/Bh</string>
+</resources>
